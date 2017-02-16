@@ -8,7 +8,7 @@ function object() {
 		name: name,
 		hair: hair,
 		ran(x){
-			console.log('he walked ${x} miles');
+			console.log(`he walked ${x} miles`);
 		}
 	};
 
